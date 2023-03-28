@@ -2,9 +2,9 @@ This SDK has rich basic functions of image processing and advanced operators, in
 
 Because the warehouse has restrictions on file size, there is no static library file in the warehouse and the file is not complete and appropriate. Please move to the following link to download the full version of the compressed package; All updates to this SDK are released through the following links. Please pay close attention to the changes of the following links.
 
-https://pan.baidu.com/s/1us8Z1EzoRyxKPZldtxR0xg?pwd=1234 提取码: 1234
+https://pan.baidu.com/s/1NS77qDJk418oBsdHIhgz_A?pwd=1234 提取码： 1234
 
-https://share.weiyun.com/tZToqAMu
+https://share.weiyun.com/OZ7tJXox
 
 Contact the following QQ groups:
 
