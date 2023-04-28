@@ -1,0 +1,39 @@
+一套指的是一份机器信息，每套软件仅对应一份机器信息。若一次性购买3套~10套则每套按原价的80%计算，
+若一次性购买10套以上则每套按原价的50%计算。
+
+本产品价格锚定中国黄金价格，结算成人民币时以提交交易订单的前一日的中国上海黄金交易所的黄金收盘价为交易订单对应的黄金价格。
+
+新购买：
+
+一年期：
+Dev-C++ TDM-GCC 4.9.2 32-bit Release：1克金/套
+Dev-C++ TDM-GCC 4.9.2 64-bit Release：1克金/套
+
+
+三年期：
+Dev-C++ TDM-GCC 4.9.2 32-bit Release：2克金/套
+Dev-C++ TDM-GCC 4.9.2 64-bit Release：2克金/套
+
+
+十年期：
+Dev-C++ TDM-GCC 4.9.2 32-bit Release：7克金/套
+Dev-C++ TDM-GCC 4.9.2 64-bit Release：7克金/套
+
+
+
+
+从上一个版本中升级：
+
+一年期：
+Dev-C++ TDM-GCC 4.9.2 32-bit Release：0.2克金/套
+Dev-C++ TDM-GCC 4.9.2 64-bit Release：0.2克金/套
+
+
+三年期：
+Dev-C++ TDM-GCC 4.9.2 32-bit Release：0.5克金/套
+Dev-C++ TDM-GCC 4.9.2 64-bit Release：0.5克金/套
+
+
+十年期：
+Dev-C++ TDM-GCC 4.9.2 32-bit Release：1克金/套
+Dev-C++ TDM-GCC 4.9.2 64-bit Release：1克金/套

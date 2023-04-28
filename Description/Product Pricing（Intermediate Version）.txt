@@ -1,0 +1,63 @@
+One set refers to one copy of machine information. Each set of software only corresponds to one copy of machine information. If 3~10 sets are purchased at one time, each set will be calculated at 80% of the original price,
+If more than 10 sets are purchased at one time, each set will be calculated at 50% of the original price.
+
+The price of this product is linked to the price of gold in China. When it is settled into Chinese yuan, the closing price of gold on the Shanghai Gold Exchange of China on the day before the submission of the trading order is the gold price corresponding to the trading order.
+
+New purchase：
+
+One-year period：
+Visual Studio 2017(v141) x86 Release：4.5g gold/piece
+Visual Studio 2017(v141) x64 Release：4.5g gold/piece
+Visual Studio 2019(v142) x86 Release：4.5g gold/piece
+Visual Studio 2019(v142) x64 Release：4.5g gold/piece
+Visual Studio 2022(v143) x86 Release：4.5g gold/piece
+Visual Studio 2022(v143) x64 Release：4.5g gold/piece
+
+
+Three-year period：
+Visual Studio 2017(v141) x86 Release：10g gold/piece
+Visual Studio 2017(v141) x64 Release：10g gold/piece
+Visual Studio 2019(v142) x86 Release：10g gold/piece
+Visual Studio 2019(v142) x64 Release：10g gold/piece
+Visual Studio 2022(v143) x86 Release：10g gold/piece
+Visual Studio 2022(v143) x64 Release：10g gold/piece
+
+
+Ten-year period：
+Visual Studio 2017(v141) x86 Release：30g gold/piece
+Visual Studio 2017(v141) x64 Release：30g gold/piece
+Visual Studio 2019(v142) x86 Release：30g gold/piece
+Visual Studio 2019(v142) x64 Release：30g gold/piece
+Visual Studio 2022(v143) x86 Release：30g gold/piece
+Visual Studio 2022(v143) x64 Release：30g gold/piece
+
+
+
+
+从上一个版本中升级：
+
+One-year period：
+Visual Studio 2017(v141) x86 Release：0.7g gold/piece
+Visual Studio 2017(v141) x64 Release：0.7g gold/piece
+Visual Studio 2019(v142) x86 Release：0.7g gold/piece
+Visual Studio 2019(v142) x64 Release：0.7g gold/piece
+Visual Studio 2022(v143) x86 Release：0.7g gold/piece
+Visual Studio 2022(v143) x64 Release：0.7g gold/piece
+
+
+Three-year period：
+Visual Studio 2017(v141) x86 Release：1.8g gold/piece
+Visual Studio 2017(v141) x64 Release：1.8g gold/piece
+Visual Studio 2019(v142) x86 Release：1.8g gold/piece
+Visual Studio 2019(v142) x64 Release：1.8g gold/piece
+Visual Studio 2022(v143) x86 Release：1.8g gold/piece
+Visual Studio 2022(v143) x64 Release：1.8g gold/piece
+
+
+Ten-year period：
+Visual Studio 2017(v141) x86 Release：6g gold/piece
+Visual Studio 2017(v141) x64 Release：6g gold/piece
+Visual Studio 2019(v142) x86 Release：6g gold/piece
+Visual Studio 2019(v142) x64 Release：6g gold/piece
+Visual Studio 2022(v143) x86 Release：6g gold/piece
+Visual Studio 2022(v143) x64 Release：6g gold/piece

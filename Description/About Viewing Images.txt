@@ -1,0 +1,4 @@
+You can first use 360 compression to compress PPM, PGM, PBM and other image files, 
+and then open the compressed file without decompression to view the above types of image files.
+BMP images and JPG images obtained from some functions of this product may not be opened with the photo viewer provided by the operating system.
+You can send these images to QQ,In this way, you can see these images directly on QQ, and then save them locally as needed.
