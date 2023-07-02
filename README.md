@@ -6,15 +6,13 @@ https://pan.baidu.com/s/1ymASCpUgJADhyKALeHmSMA?pwd=1234 提取码: 1234
 
 https://share.weiyun.com/BV6DJLw3
 
-https://caiyun.139.com/m/i?0H5CJY1i2Coeh  提取码:BkYO
+https://caiyun.139.com/m/i?0H5CJYVEkbQG2  提取码:VdPb
 
-https://www.mediafire.com/file/8im1ekrrrknt00z/ImageVision-SDK_8%2528BravePerseverance%2529.zip/file
+https://www.mediafire.com/file/hp60fildwbhn99s/ImageVision-SDK_9%2528GodLight%2529.zip/file
 
-https://jmj.cc/s/dw0uib
+https://jmj.cc/s/cm55bv
 
-https://cloud.189.cn/web/share?code=6NriiiiuQR7r（访问码：bot7）
-
-https://url95.ctfile.com/f/44915895-846056217-694820?p=9057 (访问密码: 9057)
+https://cloud.189.cn/web/share?code=Bnmm6v6viAJj（访问码：kzm8）
 
 Contact the following QQ groups:
 
