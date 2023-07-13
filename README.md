@@ -1,4 +1,4 @@
-This software is free for Ukrainian citizens.
+To support the cause of justice and reconstruction in Ukraine, this software is free of charge to Ukrainian citizens from July 7, 2023 to July 7, 2028.
 
 ImageVision SDK 10 officially released!
 
