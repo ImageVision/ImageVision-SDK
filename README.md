@@ -1,6 +1,6 @@
 To support the cause of justice and reconstruction in Ukraine, this software is free of charge to Ukrainian citizens from July 7, 2023 to July 7, 2028.
 
-ImageVision SDK 10 officially released!
+ImageVision SDK 11 officially released!
 
 This SDK has rich basic functions of image processing and advanced operators, including but not limited to powerful image reading and saving functions, two-dimensional code encoding and decoding, verification code generation, image clipping, image encryption, image compression, edge detection, morphological processing, template matching, feature detection and matching, image steganography, image special effect filter, image calibration and correction, shape search, text and graphics rendering, corner detection Hough transform, image quality evaluation, character recognition, circle and line detection, image denoising, image enhancement, image restoration, image segmentation, color space conversion, image format conversion. This SDK is stable and reliable, with strong performance, long trial period, and high cost performance. It is the best choice to help you develop image processing applications quickly.
 
