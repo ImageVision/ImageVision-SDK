@@ -1,0 +1,13 @@
+If the reservation scheme is selected, 30% of the total order price shall be paid first, and the remaining 70% of the total price shall be paid at the time of delivery.
+
+Reservation discount scheme:
+Book 5~8 days in advance: 10% reduction in price of each set of software
+Book 8~11 days in advance: 13% reduction in price of each set of software
+Book 11~14 days in advance: 16% reduction in price of each set of software
+Book 14~17 days in advance: 20% reduction in price of each set of software
+Book 17~20 days in advance: 25% reduction in price of each set of software
+Book 20~25 days in advance: 30% reduction in price of each set of software
+Reservation more than 25 days in advance: 40% reduction in price of each set of software
+
+
+Note: If the date of advance reservation is less than 5 days, it will not be counted as reservation.
