@@ -2,7 +2,7 @@ To support the cause of justice and reconstruction in Ukraine, this software is 
 
 ImageVision SDK officially released!
 
-This SDK provides QR code encoding and decoding functions, image multifocal fusion functions, image steganography, AES encryption, DES encryption, character recognition segmentation, digital recognition, image segmentation, and image quality evaluation (gradient amplitude similarity deviation).
+This SDK provides QR code encoding and decoding functions, image multifocal fusion functions, image steganography, DES encryption, character recognition segmentation, digital recognition, image segmentation.
 
 Contact the following QQ groups:
 
